@@ -1,0 +1,56 @@
+Age_Group,Gender,BP,Sugar,Cholestrol,Glucose,Smoking,Alcohol,Height,Weight,Have_Cardiovascular_disease?
+19 - 25,Male,Normal,low,low,low,Sometimes,Sometimes,165,85,Never
+26 - 35,Male,Normal,normal,normal,normal,Not at all,Sometimes,5'11'',85,Never
+19 - 25,Male,Normal,normal,normal,normal,Not at all,not at all,6.2 inches,93,Never
+19 - 25,Male,Normal,normal,normal,normal,Sometimes,Sometimes,5.6,58,Never
+46 - 60,Female,High,normal,normal,normal,Not at all,not at all,5.3  feet,70,do not know
+19 - 25,Female,Normal,normal,normal,normal,Not at all,not at all,5'4,52,Never
+46 - 60,Male,High,normal,normal,normal,Not at all,not at all,5.6 feet,66,do not know
+19 - 25,Male,Normal,normal,normal,normal,Frequently,Sometimes,171cm,74,do not know
+26 - 35,Female,Low,normal,normal,normal,Not at all,not at all,5 7',61,Never
+26 - 35,Male,Normal,normal,normal,normal,Not at all,not at all,5.2,56,Never
+19 - 25,Male,Normal,normal,normal,normal,Not at all,Sometimes,179,75,Never
+19 - 25,Male,Normal,normal,normal,normal,Not at all,not at all,5.4,68,Never
+19 - 25,Female,Normal,normal,normal,normal,Not at all,not at all,158 cm,65,Never
+19 - 25,Male,Normal,normal,normal,normal,Not at all,not at all,"5'10""",61,Never
+19 - 25,Male,Normal,normal,normal,normal,Not at all,not at all,170cm,72,Never
+15 - 18,Male,Normal,normal,normal,normal,Not at all,not at all,5'10,72,Never
+36 -  45,Female,Normal,normal,normal,normal,Not at all,not at all,5'3,60,Never
+46 - 60,Male,Normal,normal,normal,normal,Not at all,not at all,6,75,do not know
+15 - 18,Female,Normal,normal,normal,normal,Not at all,not at all,5.2,45,Never
+46 - 60,Female,Normal,high,normal,normal,Not at all,not at all,5'4,45,Never
+60 above,Male,High,normal,normal,normal,Not at all,not at all,5'6,68,Never
+36 -  45,Male,Normal,normal,normal,normal,Not at all,not at all,6'4,80,Never
+26 - 35,Female,Normal,normal,normal,normal,Not at all,not at all,5ft,55,Never
+19 - 25,Female,Normal,normal,normal,normal,Not at all,not at all,6,68,Never
+15 - 18,Male,Normal,normal,normal,normal,Not at all,not at all,168,59,Never
+19 - 25,Female,Normal,normal,normal,normal,Not at all,not at all,5.6,50,Never
+26 - 35,Female,Normal,normal,low,normal,Not at all,not at all,"5' 4""",50,Never
+26 - 35,Female,Normal,normal,normal,normal,Not at all,not at all,5.4”,63,Never
+19 - 25,Female,Normal,normal,normal,normal,Not at all,Sometimes,5'5,58,Never
+26 - 35,Male,Normal,normal,normal,normal,Not at all,not at all,185,90,Never
+19 - 25,Male,Normal,normal,normal,normal,Not at all,not at all,4'5'',85,Never
+19 - 25,Female,Normal,normal,normal,normal,Not at all,not at all,"5'3""",47,do not know
+26 - 35,Male,Normal,normal,normal,normal,Not at all,not at all,5'7,62,Never
+60 above,Male,High,normal,high,normal,Not at all,not at all,5.6,75,do not know
+46 - 60,Male,Normal,normal,normal,normal,Not at all,Sometimes,5.5,69,Never
+46 - 60,Male,High,normal,normal,normal,Not at all,Sometimes,6.2,78,do not know
+19 - 25,Male,Normal,normal,normal,normal,Not at all,not at all,5'9,80,Never
+19 - 25,Male,Normal,normal,normal,normal,Not at all,not at all,5.7,68,Never
+19 - 25,Male,Normal,normal,normal,normal,Not at all,not at all,5.8,65,Never
+19 - 25,Male,Normal,normal,normal,normal,Not at all,not at all,5 foot 3 inch,60,Never
+26 - 35,Male,Normal,low,normal,normal,Sometimes,not at all,6'.2,72,Never
+36 -  45,Male,Normal,normal,normal,normal,Not at all,not at all,5.3 ft,71,Never
+26 - 35,Male,Low,normal,normal,low,Not at all,Sometimes,5.9',66,Never
+19 - 25,Male,Normal,normal,high,normal,Sometimes,Sometimes,5.3',65,Never
+36 -  45,Female,Normal,normal,normal,normal,Not at all,not at all,157,67,Never
+19 - 25,Male,Normal,normal,normal,normal,Not at all,not at all,5.5ft,56,Never
+19 - 25,Male,Normal,normal,normal,normal,Not at all,not at all,6'1,88,Never
+15 - 18,Male,Normal,normal,normal,normal,Not at all,not at all,5.10ft,65,Never
+26 - 35,Male,Normal,high,high,high,Sometimes,Sometimes,5.5,70,do not know
+46 - 60,Female,Normal,normal,normal,normal,Not at all,not at all,5'1,67,Never
+60 above,Male,High,high,normal,normal,Frequently,Sometimes,6.5,68,do not know
+26 - 35,Female,Very low,normal,normal,normal,Not at all,not at all,5'1,57,Never
+26 - 35,Male,Low,normal,normal,normal,Not at all,Sometimes,5.2,65,do not know
+26 - 35,Female,Normal,normal,normal,normal,Not at all,not at all,5'6'',65,Never
+19 - 25,Female,Normal,normal,normal,normal,Not at all,not at all,5.3,52,Never
